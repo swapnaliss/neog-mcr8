@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.heading-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.details-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.meetup-container {
+  width: 60%;
+}
+
+.venue-container {
+  width: 40%;
+}
